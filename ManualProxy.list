@@ -4,4 +4,7 @@
 
 #DOMAIN-SUFFIX,bili.day
 #IP-CIDR,89.58.35.0/22,no-resolve
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,plex.direct
 DOMAIN-KEYWORD,google
