@@ -3,3 +3,4 @@
 # REPO: https://github.com/yilong2018/ShareFiles
 DOMAIN-SUFFIX,bili.day
 IP-CIDR,89.58.35.0/22,no-resolve
+IP-CIDR,2.58.64.0/22,no-resolve
