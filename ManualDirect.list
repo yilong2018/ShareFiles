@@ -8,5 +8,5 @@ IP-CIDR,2.58.64.0/22,no-resolve
 DOMAIN-SUFFIX,acemby.org
 IP-CIDR,89.58.62.0/22,no-resolve
 DOMAIN-SUFFIX,multiphyse.com
-IP-CIDR,146.56.178.86/22,no-resolve
+IP-CIDR,146.56.178.0/22,no-resolve
 DOMAIN-SUFFIX,embymv.tk
