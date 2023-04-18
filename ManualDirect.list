@@ -5,8 +5,11 @@ DOMAIN-SUFFIX,bili.day
 DOMAIN-SUFFIX,acemby.org
 DOMAIN-SUFFIX,multiphyse.com
 DOMAIN-SUFFIX,embymv.tk
+DOMAIN-SUFFIX,misty.one
 IP-CIDR,38.59.254.0/22,no-resolve
 IP-CIDR,89.58.35.0/22,no-resolve
 IP-CIDR,2.58.64.0/22,no-resolve
 IP-CIDR,89.58.62.0/22,no-resolve
 IP-CIDR,146.56.178.0/22,no-resolve
+IP-CIDR,38.59.254.0/22,no-resolve
+IP-CIDR,111.38.37.0/22,no-resolve
