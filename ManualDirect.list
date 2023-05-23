@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,acemby.org
 DOMAIN-SUFFIX,multiphyse.com
 DOMAIN-SUFFIX,embymv.tk
 DOMAIN-SUFFIX,misty.one
+DOMAIN-SUFFIX,cdn2.misakaf.org
 IP-CIDR,38.59.254.0/22,no-resolve
 IP-CIDR,89.58.35.0/22,no-resolve
 IP-CIDR,2.58.64.0/22,no-resolve
