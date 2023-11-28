@@ -1,9 +1,10 @@
 # NAME: ManualDirect
 # AUTHOR: yilong
 # REPO: https://github.com/yilong2018/ShareFiles
+DOMAIN-SUFFIX,www.isir.xyz
+DOMAIN-SUFFIX,vm.331331.xyz
 DOMAIN-SUFFIX,wuyouyun.cc
 DOMAIN-SUFFIX,isir.top
-DOMAIN-SUFFIX,www.isir.xyz
 DOMAIN-SUFFIX,bili.day
 DOMAIN-SUFFIX,plabx.com
 DOMAIN-SUFFIX,prxrp.com
@@ -11,7 +12,6 @@ DOMAIN-SUFFIX,acemby.org
 DOMAIN-SUFFIX,multiphyse.com
 DOMAIN-SUFFIX,misty.one
 DOMAIN-SUFFIX,cdn2.misakaf.org
-DOMAIN-SUFFIX,de-sf.vm.331331.xyz
 IP-CIDR,38.59.254.0/22,no-resolve
 IP-CIDR,89.58.35.0/22,no-resolve
 IP-CIDR,2.58.64.0/22,no-resolve
